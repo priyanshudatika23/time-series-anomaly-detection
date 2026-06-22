@@ -1,0 +1,24 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.Python
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Saved models / cached data
+*.h5
+*.keras
+*.csv
+*.pkl
+
+# OS / editor
+.DS_Store
+.idea/
+.vscode/
